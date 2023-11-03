@@ -12,5 +12,5 @@ I am an undergraduate student from [Nanjing University](https://www.nju.edu.cn/)
 
 You can find my CV here: [Zhou Chenrui's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:191098358@smail.nju.edu.cn)
+[Email](mailto:191098358@smail.nju.edu.cn)/
 [Github](https://github.com/LuoHua0012)
